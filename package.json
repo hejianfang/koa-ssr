@@ -1,0 +1,14 @@
+{
+    "name": "koa-ssr",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "devDependencies": {
+        "koa": "^2.8.2",
+        "koa-ejs": "^4.2.0",
+        "koa-router": "^7.4.0"
+    }
+}
